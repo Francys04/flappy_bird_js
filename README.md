@@ -62,4 +62,4 @@ The code is organized into several key functions:
 
 ###### I hope this README provides a clear and comprehensive overview of your Flappy Bird game code. Feel free to explore further customization and enhancements to personalize the game!
 
-![image](Captures.JPG)
+![image](Capture.JPG)
