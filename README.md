@@ -61,3 +61,5 @@ The code is organized into several key functions:
 - Consider adding sound effects for jumps, collisions, and scoring for a more immersive experience.
 
 ###### I hope this README provides a clear and comprehensive overview of your Flappy Bird game code. Feel free to explore further customization and enhancements to personalize the game!
+
+![image](Captures.JPG)
